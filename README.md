@@ -17,7 +17,8 @@ The first line of the input file - "fastest.inp" contains 4 integers: N, M, S an
 
 For instance, the data in my input file will result in a graph road network as seen in the image below:
 
-road.png
+<img width="236" alt="road" src="https://github.com/PersieB/Fastest-path-and-time-to-travel/assets/53563761/b709317a-8c02-4ecc-8b6f-1baaadf30324">
+
 
 ## Source Code
 
